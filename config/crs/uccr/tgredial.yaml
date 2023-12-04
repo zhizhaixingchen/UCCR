@@ -1,5 +1,5 @@
 # dataset
-dataset: TGReDial
+dataset: ReDial
 tokenize: pkuseg
 embedding: word2vec.npy
 # dataloader
